@@ -1,6 +1,6 @@
 # ProfileCraft
 
-Test task taken from https://github.com/CasperNEw/CraftYourProfile
+Test task taken from https://www.youtube.com/watch?v=BIzOiBUKtxM
 
 Result screenshots
 
